@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
 # Name: K Charan teja
-#Register No:212224040163
+# Register No:212224040163
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
